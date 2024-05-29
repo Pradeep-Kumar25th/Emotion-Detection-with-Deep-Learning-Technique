@@ -1,2 +1,3 @@
 # Emotion-Detection-with-Deep-Learning-Technique
-This project is Deep Learning model call CNN to detect Emotion using facial expressions.
+Real-time facial emotion detection is an important research area in computer vision and machine learning. This study presents a deep learning technique convolutional neural network (CNN)-based solution for real-time face emotion identification. The suggested method comprises recording a live video feed of a user's face, then pre-processing the frames to recognize and isolate the facial region. Finally, to categorise the emotions, a CNN model is trained using a dataset of facial expressions. The system may be applied in a variety of domains, including psychology, human-computer interaction, and emotional computing.
+![image](https://github.com/Pradeep-Kumar25th/Emotion-Detection-with-Deep-Learning-Technique/assets/53393923/8ad04463-5c17-40d5-aa4f-9b2aa5b888a7)
